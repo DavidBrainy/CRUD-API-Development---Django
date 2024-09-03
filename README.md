@@ -63,10 +63,6 @@ The API provides the following endpoints:
 - Update Item: PUT /api/items/<id>/
 - Delete Item: DELETE /api/items/<id>/
 
-# Swagger Documentation
-- The API documentation is available via Swagger. You can access it at:
-  http://127.0.0.1:8000/swagger/
-
 # Assumptions and Design Decisions
   ## User Model:
 - The last_modified_by field in the Item model is a foreign key to the Django User model. This assumes that every item modification must be associated with a registered user.
