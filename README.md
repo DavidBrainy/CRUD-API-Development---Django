@@ -34,7 +34,7 @@ This project is a Django-based CRUD (Create, Read, Update, Delete) API for manag
 - Virtualenv (optional but recommended)
 
 ## Clone the Repository
-- git clone https://github.com/Xeflide-Desmond/CRUD-API-Development---Item-django-.git
+- https://github.com/DavidBrainy/CRUD-API-Development---Django
 - cd CRUD-API-Development---Item-django-
 
 ## Create and Activate a Virtual Environment
